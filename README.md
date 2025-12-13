@@ -1,50 +1,13 @@
 ## 👋 Frontend Developer | Лев
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-##  Обо мне
 
-- 💻 **Опыт в веб-разработке** — более 3 лет.
-- 🚀 **Работал на фрилансе** — множество завершённых проектов и более сотни положительных отзывов.
-- 🧩 **Нацелен на долгосрочное сотрудничество** — ищу команду, где смогу проявить себя и развиваться.
-- 📈 **Постоянно учусь** — в 2025 прошёл курс «Дизайн и продвижение веб‑сайтов».
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Russia%2C+Irkutsk%2C+IRNITY)](https://git.io/typing-svg)
 
----
-
-## Мой стек
-
-### **Frontend**
-- **HTML / CSS** (Sass/SCSS/Less, семантичная вёрстка, адаптивность, кроссбраузерность)
-- **JavaScript** (ES6+), TypeScript
-- **Фреймворки и библиотеки**: React, Vue, jQuery, Bootstrap
-- **Анимация**: GSAP
-- **Сборка**: Webpack, Vite
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap;gap:30px;">
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzz38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-### **Backend & CMS**
-- PHP
-- WordPress, MODX, OpenCart, Bitrix, Joomla
 
-### **Инструменты**
-- Git
-- ChatGPT, OpenAI, DeepSeek — для автоматизации и оптимизации задач
+- **Telegram**: [@skaterchill](https://t.me/skaterchill)
 
----
-
-## 📫 Контакты
-
-- **Telegram**: [@skaterchill](https://t.me/skaterchill) — предпочитаемый способ связи
-
-<!--
-**yuzz38/yuzz38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
