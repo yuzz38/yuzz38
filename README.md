@@ -1,10 +1,9 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+Information+System+and+Technologies)](https://git.io/typing-svg)
-# 👋 Frontend Developer | Лев
+## 👋 Frontend Developer | Лев
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ---
 
-## 🧠 Обо мне
+##  Обо мне
 
 - 💻 **Опыт в веб-разработке** — более 3 лет.
 - 🚀 **Работал на фрилансе** — множество завершённых проектов и более сотни положительных отзывов.
@@ -13,7 +12,7 @@
 
 ---
 
-## 🛠️ Технологический стек
+## Мой стек
 
 ### **Frontend**
 - **HTML / CSS** (Sass/SCSS/Less, семантичная вёрстка, адаптивность, кроссбраузерность)
