@@ -21,7 +21,7 @@
 - **Анимация**: GSAP
 - **Сборка**: Webpack, Vite
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzz38)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **Backend & CMS**
 - PHP
