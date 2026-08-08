@@ -26,3 +26,4 @@
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 - **Telegram**: [@skaterchill](https://t.me/skaterchill)
+- **MAX**: [ссылка](https://max.ru/u/f9LHodD0cOL1sPfDwcYjosUM5U_wiZi5Da4enWOwRHSDHuYUt5jrHv8lhQI)
